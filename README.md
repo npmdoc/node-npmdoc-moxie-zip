@@ -1,4 +1,7 @@
-# api documentation for  [moxie-zip (v0.0.4)](https://github.com/spocke/moxie-zip)  [![npm package](https://img.shields.io/npm/v/npmdoc-moxie-zip.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-moxie-zip) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-moxie-zip.svg)](https://travis-ci.org/npmdoc/node-npmdoc-moxie-zip)
+# npmdoc-moxie-zip
+
+#### basic api documentation for  [moxie-zip (v0.0.4)](https://github.com/spocke/moxie-zip)  [![npm package](https://img.shields.io/npm/v/npmdoc-moxie-zip.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-moxie-zip) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-moxie-zip.svg)](https://travis-ci.org/npmdoc/node-npmdoc-moxie-zip)
+
 #### Yet another zip library
 
 [![NPM](https://nodei.co/npm/moxie-zip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/moxie-zip)
@@ -60,7 +63,8 @@
         "url": "git+ssh://git@github.com/spocke/moxie-zip.git"
     },
     "scripts": {},
-    "version": "0.0.4"
+    "version": "0.0.4",
+    "bin": {}
 }
 ```
 
